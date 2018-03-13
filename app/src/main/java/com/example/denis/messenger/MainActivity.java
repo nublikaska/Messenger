@@ -72,13 +72,15 @@ public class MainActivity extends AppCompatActivity {
         chats.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                if (i == 0) {
+                TextView name = (TextView)view.findViewById(R.id.chat_user) ;
+                TextView id = (TextView)view.findViewById(R.id.id_user);
+
+                if (id.getText().toString().isEmpty()) {
                     Intent mainChat = new Intent(MainActivity.this, MainChatActivity.class);
                     startActivity(mainChat);
                 } else {
                     Intent chatWithUser = new Intent(MainActivity.this, CharWithUserActivity.class);
-                    TextView name = (TextView)view.findViewById(R.id.chat_user) ;
-                    TextView id = (TextView)view.findViewById(R.id.id_user);
+
                     chatWithUser.putExtra("myId", FirebaseAuth.getInstance().getCurrentUser().getUid());
                     chatWithUser.putExtra("hisId", id.getText().toString());
                     chatWithUser.putExtra("hisName", name.getText().toString());
