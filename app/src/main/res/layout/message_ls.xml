@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingLeft="6dp"
+    android:paddingRight="10dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/message_user_ls"
+        android:textSize="11sp"
+        android:textStyle="italic"
+        android:visibility="invisible"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/message_time_ls"
+        android:textSize="8sp"
+        />
+
+    <com.github.library.bubbleview.BubbleTextView
+        android:id="@+id/message_text_ls"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/message_user_ls"
+        android:padding="10dp"
+        android:textColor="@android:color/white"
+        app:angle="5dp"
+        app:arrowHeight="10dp"
+        app:arrowLocation="left"
+        app:arrowPosition="8dp"
+        app:arrowWidth="7dp"
+        app:bubbleColor="#7EC0EE"
+        android:maxWidth="270dp"/>
+
+    <com.github.library.bubbleview.BubbleTextView
+        android:id="@+id/message_i_text_ls"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/message_time_ls"
+        android:padding="10dp"
+        android:textColor="@android:color/white"
+        android:visibility="gone"
+        app:angle="5dp"
+        app:arrowHeight="10dp"
+        app:arrowLocation="right"
+        app:arrowPosition="8dp"
+        app:arrowWidth="7dp"
+        app:bubbleColor="@color/colorAccent"
+        android:maxWidth="270dp"/>
+</RelativeLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "571460813276",
+    "firebase_url": "https://messenger-da064.firebaseio.com",
+    "project_id": "messenger-da064",
+    "storage_bucket": "messenger-da064.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571460813276:android:c25076665cd7e0b3",
+        "android_client_info": {
+          "package_name": "com.example.denis.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571460813276-gsa9mk6to0p59gvqr7fe2v60g4i053vg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.denis.messenger",
+            "certificate_hash": "0ca84a66ac218145e665c23560690c05c27e58ac"
+          }
+        },
+        {
+          "client_id": "571460813276-susatescd7vu8bct7fcrutha3inunk7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3jG2FpqwC8KCDHyDZf5_uaTw5AvsLJIk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571460813276-susatescd7vu8bct7fcrutha3inunk7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

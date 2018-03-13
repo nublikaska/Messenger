@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/demos" />
+            <option value="$PROJECT_DIR$/demos/java" />
+            <option value="$PROJECT_DIR$/demos/java/io" />
+            <option value="$PROJECT_DIR$/demos/java/io/material" />
+            <option value="$PROJECT_DIR$/demos/java/io/material/demo" />
+            <option value="$PROJECT_DIR$/demos/java/io/material/demo/shrine" />
+            <option value="$PROJECT_DIR$/demos/java/io/material/demo/shrine/filters" />
+            <option value="$PROJECT_DIR$/demos/java/io/material/demo/shrine/products" />
+            <option value="$PROJECT_DIR$/demos/java/io/material/demo/shrine/theme" />
+            <option value="$PROJECT_DIR$/lib" />
+            <option value="$PROJECT_DIR$/lib/java" />
+            <option value="$PROJECT_DIR$/lib/java/android" />
+            <option value="$PROJECT_DIR$/lib/java/android/support" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/animation" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/backlayer" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/bottomnavigation" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/bottomsheet" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/button" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/canvas" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/card" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/chip" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/circularreveal" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/circularreveal/cardview" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/circularreveal/coordinatorlayout" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/color" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/dialog" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/drawable" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/expandable" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/floatingactionbutton" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/internal" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/math" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/resources" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/ripple" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/snackbar" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/stateful" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/tabs" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/textfield" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/theme" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/transformation" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/typography" />
+            <option value="$PROJECT_DIR$/lib/java/android/support/design/widget" />
+            <option value="$PROJECT_DIR$/testing" />
+            <option value="$PROJECT_DIR$/testing/java" />
+            <option value="$PROJECT_DIR$/testing/java/android" />
+            <option value="$PROJECT_DIR$/testing/java/android/support" />
+            <option value="$PROJECT_DIR$/testing/java/android/support/design" />
+            <option value="$PROJECT_DIR$/testing/java/android/support/design/testapp" />
+            <option value="$PROJECT_DIR$/testing/java/android/support/design/testapp/animation" />
+            <option value="$PROJECT_DIR$/testing/java/android/support/design/testapp/backlayer" />
+            <option value="$PROJECT_DIR$/testing/java/android/support/design/testapp/base" />
+            <option value="$PROJECT_DIR$/testing/java/android/support/design/testapp/custom" />
+            <option value="$PROJECT_DIR$/tests" />
+            <option value="$PROJECT_DIR$/tests/javatests" />
+            <option value="$PROJECT_DIR$/tests/javatests/android" />
+            <option value="$PROJECT_DIR$/tests/javatests/android/support" />
+            <option value="$PROJECT_DIR$/tests/javatests/android/support/design" />
+            <option value="$PROJECT_DIR$/tests/javatests/android/support/design/animation" />
+            <option value="$PROJECT_DIR$/tests/javatests/android/support/design/backlayer" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

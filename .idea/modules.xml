@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Messenger.iml" filepath="$PROJECT_DIR$/Messenger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testing/java/android/support/design/testapp/base/base.iml" filepath="$PROJECT_DIR$/testing/java/android/support/design/testapp/base/base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/bottomnavigation/bottomnavigation.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/bottomnavigation/bottomnavigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/bottomsheet/bottomsheet.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/bottomsheet/bottomsheet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/button/button.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/button/button.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/canvas/canvas.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/canvas/canvas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/card/card.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/card/card.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/circularreveal/cardview/cardview.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/circularreveal/cardview/cardview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/chip/chip.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/chip/chip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/circularreveal/circularreveal.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/circularreveal/circularreveal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/color/color.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/color/color.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/circularreveal/coordinatorlayout/coordinatorlayout.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/circularreveal/coordinatorlayout/coordinatorlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testing/java/android/support/design/testapp/custom/custom.iml" filepath="$PROJECT_DIR$/testing/java/android/support/design/testapp/custom/custom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/java/io/material/demo/demo.iml" filepath="$PROJECT_DIR$/demos/java/io/material/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/demos.iml" filepath="$PROJECT_DIR$/demos/demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/java/demos-java.iml" filepath="$PROJECT_DIR$/demos/java/demos-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/theme/design-theme.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/theme/design-theme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/dialog/dialog.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/dialog/dialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/drawable/drawable.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/drawable/drawable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/expandable/expandable.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/expandable/expandable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/java/io/material/demo/shrine/filters/filters.iml" filepath="$PROJECT_DIR$/demos/java/io/material/demo/shrine/filters/filters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/floatingactionbutton/floatingactionbutton.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/floatingactionbutton/floatingactionbutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/internal/internal.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/internal/internal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/java/io/io.iml" filepath="$PROJECT_DIR$/demos/java/io/io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/animation/java-android-support-design-animation.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/animation/java-android-support-design-animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/backlayer/java-android-support-design-backlayer.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/backlayer/java-android-support-design-backlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/javatests/javatests.iml" filepath="$PROJECT_DIR$/tests/javatests/javatests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/javatests/android/javatests-android.iml" filepath="$PROJECT_DIR$/tests/javatests/android/javatests-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/javatests/android/support/javatests-android-support.iml" filepath="$PROJECT_DIR$/tests/javatests/android/support/javatests-android-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/javatests/android/support/design/javatests-android-support-design.iml" filepath="$PROJECT_DIR$/tests/javatests/android/support/design/javatests-android-support-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/javatests/android/support/design/animation/javatests-android-support-design-animation.iml" filepath="$PROJECT_DIR$/tests/javatests/android/support/design/animation/javatests-android-support-design-animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/javatests/android/support/design/backlayer/javatests-android-support-design-backlayer.iml" filepath="$PROJECT_DIR$/tests/javatests/android/support/design/backlayer/javatests-android-support-design-backlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/lib-java.iml" filepath="$PROJECT_DIR$/lib/java/lib-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/lib-java-android.iml" filepath="$PROJECT_DIR$/lib/java/android/lib-java-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/lib-java-android-support.iml" filepath="$PROJECT_DIR$/lib/java/android/support/lib-java-android-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/lib-java-android-support-design.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/lib-java-android-support-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/java/io/material/material.iml" filepath="$PROJECT_DIR$/demos/java/io/material/material.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/math/math.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/math/math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/java/io/material/demo/shrine/products/products.iml" filepath="$PROJECT_DIR$/demos/java/io/material/demo/shrine/products/products.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/resources/resources.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/resources/resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/ripple/ripple.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/ripple/ripple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/java/io/material/demo/shrine/shrine.iml" filepath="$PROJECT_DIR$/demos/java/io/material/demo/shrine/shrine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/java/io/material/demo/shrine/theme/shrine-theme.iml" filepath="$PROJECT_DIR$/demos/java/io/material/demo/shrine/theme/shrine-theme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/snackbar/snackbar.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/snackbar/snackbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/stateful/stateful.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/stateful/stateful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/tabs/tabs.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/tabs/tabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testing/java/android/support/design/testapp/testapp.iml" filepath="$PROJECT_DIR$/testing/java/android/support/design/testapp/testapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testing/java/android/support/design/testapp/animation/testapp-animation.iml" filepath="$PROJECT_DIR$/testing/java/android/support/design/testapp/animation/testapp-animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testing/java/android/support/design/testapp/backlayer/testapp-backlayer.iml" filepath="$PROJECT_DIR$/testing/java/android/support/design/testapp/backlayer/testapp-backlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testing/testing.iml" filepath="$PROJECT_DIR$/testing/testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testing/java/testing-java.iml" filepath="$PROJECT_DIR$/testing/java/testing-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testing/java/android/testing-java-android.iml" filepath="$PROJECT_DIR$/testing/java/android/testing-java-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testing/java/android/support/testing-java-android-support.iml" filepath="$PROJECT_DIR$/testing/java/android/support/testing-java-android-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testing/java/android/support/design/testing-java-android-support-design.iml" filepath="$PROJECT_DIR$/testing/java/android/support/design/testing-java-android-support-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/tests.iml" filepath="$PROJECT_DIR$/tests/tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/textfield/textfield.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/textfield/textfield.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/transformation/transformation.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/transformation/transformation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/typography/typography.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/typography/typography.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/java/android/support/design/widget/widget.iml" filepath="$PROJECT_DIR$/lib/java/android/support/design/widget/widget.iml" />
+    </modules>
+  </component>
+</project>
